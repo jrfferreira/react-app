@@ -1,12 +1,12 @@
 # react-app
 
-## Setting up
+## Setting up:
 
 ```
 yarn
 ```
 
-## Running
+## Running:
 
 ```
 yarn start
